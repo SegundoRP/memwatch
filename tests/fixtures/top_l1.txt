@@ -1,0 +1,62 @@
+Processes: 971 total, 2 running, 969 sleeping, 9311 threads 
+2026/11/04 22:30:19
+Load Avg: 4.70, 3.75, 3.58 
+CPU usage: 8.15% user, 14.77% sys, 77.6% idle 
+SharedLibs: 355M resident, 88M data, 73M linkedit.
+MemRegions: 1459318 total, 4149M resident, 72M private, 2904M shared.
+PhysMem: 23G used (5257M wired, 10G compressor), 101M unused.
+VM: 511T vsize, 6144M framework vsize, 120589272(0) swapins, 136742912(0) swapouts.
+Networks: packets: 304909451/293G in, 276355180/95G out.
+Disks: 593096643/8159G read, 212633840/4622G written.
+
+PID    COMMAND          MEM  
+70062  com.apple.Virtua 4112M
+27716  plugin-container 1516M
+12450  firefox          1271M
+12623  plugin-container 1259M
+21854  Claude Helper (R 1241M
+57090  Codex (Renderer) 1180M
+12487  Firefox Develope 1176M
+92586  plugin-container 1045M
+12506  plugin-container 984M 
+57092  codex            931M 
+12608  plugin-container 811M 
+396    WindowServer     718M 
+10694  plugin-container 704M 
+23876  Google Chrome    703M 
+80281  Slack Helper (Re 702M 
+21521  Code Helper (Ren 630M 
+56538  ChatGPT          522M 
+12624  plugin-container 494M 
+51255  Google Chrome He 474M 
+12621  plugin-container 464M 
+21799  Claude           461M 
+21520  Code Helper (Ren 447M 
+74564  WhatsApp         420M 
+78703  Google Chrome He 405M 
+23914  Google Chrome He 355M 
+4725   plugin-container 354M 
+12524  plugin-container 351M 
+21514  Code Helper      338M 
+571    CloudflareWARP   336M 
+12489  plugin-container 328M 
+63830  plugin-container 323M 
+23975  Google Chrome He 315M 
+39318  plugin-container 302M 
+639    cmux             295M 
+21812  Claude Helper    293M 
+44679  claude           291M 
+23893  Google Chrome He 283M 
+23956  Google Chrome He 281M 
+52762  claude           270M 
+56585  Codex (Service)  265M 
+46781  Google Chrome He 259M 
+80277  Slack Helper     258M 
+65895  Google Chrome He 252M 
+22186  Code Helper (Plu 246M 
+57913  Codex (Renderer) 246M 
+24222  Google Chrome He 245M 
+70017  com.docker.backe 244M 
+71685  Code Helper (Plu 243M 
+10910  Google Chrome He 243M 
+63855  claude           241M 

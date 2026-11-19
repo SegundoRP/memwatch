@@ -1,0 +1,10 @@
+[package]
+name = "memwatch"
+version = "0.1.0"
+edition = "2024"
+description = "Memory watchdog for macOS: alerts when a process leaks memory"
+license = "MIT"
+repository = "https://github.com/SegundoRP/memwatch"
+
+[dependencies]
+libc = "0.2.191"
